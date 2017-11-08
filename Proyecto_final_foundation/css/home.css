@@ -1,0 +1,76 @@
+label
+{
+    display: block;
+}
+
+input
+{
+    border: 1px solid #BFBFBF;
+    color: #BFBFBF;
+    padding: 5px 5px 5px 25px;
+    width: 230px;
+    margin-bottom: 20px;
+}
+input.submit
+{
+    width: auto;
+    background-position: 4px -84px;
+    background-color: #999999;
+    color: #FFFFFF;
+    cursor: pointer;
+}
+
+
+a:link {
+    color: black;
+}
+
+/* visited link */
+a:visited {
+    color: blue;
+}
+
+/* mouse over link */
+a:hover {
+    color: red;
+}
+
+/* selected link */
+a:active {
+    color: yellow;
+}
+
+.callout h4 {
+    text-align: right;
+    font-size: 0.8em;
+    -webkit-box-shadow: -1px -12px 42px -5px rgba(0,0,0,0.75);
+    -moz-box-shadow: -1px -12px 42px -5px rgba(0,0,0,0.75);
+     box-shadow: -1px -12px 42px -5px rgba(0,0,0,0.75);
+}
+
+
+
+.search-text-box {
+    font-family: 'GeneralFoundicons'; /* This is for the placeholder */
+    background-color: #f3f3f3;
+    background-repeat: no-repeat;
+    border: 0 none;
+    border-radius: 18px;
+    box-shadow: none;
+    color: transparent;
+    cursor: text;
+    font-size: 13px;
+    color: #444;
+    height: 18px;
+    line-height: 18px;
+    padding: 7px 5px 8px 8px;
+    transition: all 0.3s ease-in-out 0s;
+    width: 250px;        
+}
+
+.comentario {
+    order-radius: 18px;
+    padding: 7px 5px 8px 8px;
+    transition: all 0.3s ease-in-out 0s;
+    width: 250px;     
+}

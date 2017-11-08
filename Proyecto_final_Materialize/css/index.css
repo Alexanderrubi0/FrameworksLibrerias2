@@ -1,0 +1,51 @@
+.barrasuperior {
+ min-height: 5rem;
+}
+.logo {
+	 position: relative;
+	  top: 25px;
+	  left: 20px;
+	  width: 500px;
+}
+.logo > img {
+	
+	width: 100%;
+	height: 100%;
+}
+.menu {
+	margin-top: 2em;
+	border-radius: 38px 38px 38px 38px;
+	-moz-border-radius: 38px 38px 38px 38px;
+	-webkit-border-radius: 38px 38px 38px 38px;
+	border: 0px solid #000000;
+}
+
+.entradablog {
+	width: 100%
+}
+
+.entradablog img {
+	float: left;
+	margin: 1em;
+	width: 50%;
+
+}
+.comentario {
+
+}
+
+.perfilautor {
+	
+	margin-left: 5px;
+	text-align: center;
+	
+}
+
+.perfil p {
+	height: 29em;
+
+}
+
+.card-content input {
+	border: 1px solid red;
+}
